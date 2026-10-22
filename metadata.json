@@ -1,0 +1,6 @@
+{
+  "name": "Skyars — Software, IoT & Applied AI Engineering",
+  "description": "Skyars builds custom web and mobile software, connected IoT hardware systems, and practical AI automation from Bhavnagar, Gujarat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
